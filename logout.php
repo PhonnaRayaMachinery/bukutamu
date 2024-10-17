@@ -10,6 +10,6 @@ unset($_SESSION['username']);
 session_destroy();
 echo "<script type='text/javascript'>
 alert('Anda telah keluar dari halaman admin...');
-document.location.href = 'index.php';
+document.location.href = 'index.html';
 </script>";
 ?>

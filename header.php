@@ -7,7 +7,7 @@
 
     echo "<script type='text/javascript'>
     alert('Maaf, untuk mengakses halaman ini, anda diharuskan Login terlebih dahulu...!');
-    document.location.href = 'index.php';
+    document.location.href = 'index.html';
     </script>";
 
 }

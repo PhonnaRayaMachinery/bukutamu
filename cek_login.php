@@ -25,7 +25,7 @@ if($data) {
 } else {
     echo "<script type='text/javascript'>
     alert('Maaf, Login Gagal, Pastikan Username dan Password Anda Benar...!');
-    document.location.href = 'index.php';
+    document.location.href = 'index.html';
     </script>";
 }
 
